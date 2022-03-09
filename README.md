@@ -1,6 +1,6 @@
 # xylophone-app
 
-## What you will create
+## What is xylophone-app
 
 This app is a simple musical instrument! Music apps are so popular on the App Store that they even get their own category. 
 
